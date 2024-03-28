@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gavesh Aggarwal</h1>
 <h3 align="center">Sophomore Computer Science Undergrad</h3>
 
+- 🔭 I’m currently working on [Facial_Recognition_Attendance_System](https://github.com/Aggarwal-Gavesh-25/Facial_Recognition_Attendance_System)
+
+- 🌱 I’m currently learning **Arduino & Adafruit Microcontrollers**
+
 - 📫 How to reach me **aggarwalgavesh25@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rvDLpqtgdkZgUYf7YIr3hZ6krSDsm29e/view?usp=drive_link](https://drive.google.com/file/d/1rvDLpqtgdkZgUYf7YIr3hZ6krSDsm29e/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
