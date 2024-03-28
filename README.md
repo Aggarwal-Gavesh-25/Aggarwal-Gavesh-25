@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aggarwalgavesh25@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rvDLpqtgdkZgUYf7YIr3hZ6krSDsm29e/view?usp=drive_link](https://drive.google.com/file/d/1rvDLpqtgdkZgUYf7YIr3hZ6krSDsm29e/view?usp=drive_link)
+- 📄 My CV [https://drive.google.com/file/d/1rvDLpqtgdkZgUYf7YIr3hZ6krSDsm29e/view?usp=drive_link](https://drive.google.com/file/d/1rvDLpqtgdkZgUYf7YIr3hZ6krSDsm29e/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
