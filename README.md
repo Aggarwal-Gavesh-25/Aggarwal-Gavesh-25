@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Facial_Recognition_Attendance_System](https://github.com/Aggarwal-Gavesh-25/Facial_Recognition_Attendance_System)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Computer Vision**
 
 - 📫 How to reach me **aggarwalgavesh25@gmail.com**
 
