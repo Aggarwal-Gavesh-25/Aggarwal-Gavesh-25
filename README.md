@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **aggarwalgavesh25@gmail.com**
 
-- 📄 My CV [https://drive.google.com/file/d/1rvDLpqtgdkZgUYf7YIr3hZ6krSDsm29e/view?usp=drive_link](https://drive.google.com/file/d/1rvDLpqtgdkZgUYf7YIr3hZ6krSDsm29e/view?usp=drive_link)
+- 📄 My CV: [Gavesh Aggarwal_Resume](https://drive.google.com/file/d/1cjmo0GxURgTPIXptKj8vvXNCFjsnlbdc/view?usp=sharing)
 
 - ⚡ Fun fact **I am deeply interested in Governance, Indian Society & Polity**
   
